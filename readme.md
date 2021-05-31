@@ -80,3 +80,6 @@ npm run build
 # end point changes
 
 - currently the endpoint (under ./src/endpoint.js) is reffering to heroku hosted app. It needs to be updated to localhost:port if the express server is run locally.
+
+
+[![issues](https://img.shields.io/github/issues/RamkiAllada/Express-Heroku-SMS-Email-generator)](https://github.com/RamkiAllada/Express-Heroku-SMS-Email-generator/issues) [![Ask Me Anything !](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](https://github.com/RamkiAllada) ![Profile views](https://gpvc.arturio.dev/RamkiAllada)
